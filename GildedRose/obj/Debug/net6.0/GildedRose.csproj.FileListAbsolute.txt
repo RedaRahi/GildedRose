@@ -1,0 +1,36 @@
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/bin/Debug/net6.0/GildedRose.deps.json
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/bin/Debug/net6.0/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/bin/Debug/net6.0/GildedRose.pdb
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.AssemblyReference.cache
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfoInputs.cache
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfo.cs
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.CoreCompileInputs.cache
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/refint/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/GildedRose.pdb
+/Users/faeznasri/Desktop/Epsi/tp1/GildedRose/obj/Debug/net6.0/ref/GildedRose.dll
+d:/EPSI/Architecture applicative/tp1/GildedRose/bin/Debug/net6.0/GildedRose.deps.json
+d:/EPSI/Architecture applicative/tp1/GildedRose/bin/Debug/net6.0/GildedRose.dll
+d:/EPSI/Architecture applicative/tp1/GildedRose/bin/Debug/net6.0/GildedRose.pdb
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.AssemblyReference.cache
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfoInputs.cache
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfo.cs
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.CoreCompileInputs.cache
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.dll
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/refint/GildedRose.dll
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/GildedRose.pdb
+d:/EPSI/Architecture applicative/tp1/GildedRose/obj/Debug/net6.0/ref/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/bin/Debug/net6.0/GildedRose.deps.json
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/bin/Debug/net6.0/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/bin/Debug/net6.0/GildedRose.pdb
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.AssemblyReference.cache
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfoInputs.cache
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.AssemblyInfo.cs
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.csproj.CoreCompileInputs.cache
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/refint/GildedRose.dll
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/GildedRose.pdb
+/Users/faeznasri/Desktop/Epsi/cours/tp1/GildedRose/obj/Debug/net6.0/ref/GildedRose.dll
